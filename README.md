@@ -1,4 +1,4 @@
-.checkout
+Gerenciador de Bookmarks para M4U
 =========
 
-A Symfony project created on April 24, 2016, 7:45 pm.
+Gerenciador desenvolvido em Symfony 2.8.2, MongoDB e Twitter Bootstrap 3+, com 2 perfis de visualização: Administrador e Cliente.
