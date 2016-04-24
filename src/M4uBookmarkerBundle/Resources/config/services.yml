@@ -1,0 +1,4 @@
+services:
+#    m4u_bookmarker.example:
+#        class: M4uBookmarkerBundle\Example
+#        arguments: ["@service_id", "plain_value", %parameter%]

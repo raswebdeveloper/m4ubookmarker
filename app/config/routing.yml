@@ -1,0 +1,3 @@
+m4u_bookmarker:
+    resource: "@M4uBookmarkerBundle/Resources/config/routing.yml"
+    prefix:   /
